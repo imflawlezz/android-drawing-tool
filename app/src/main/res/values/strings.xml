@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4 – 2D Graphics</string>
+    <string name="colorSelectText">Select</string>
+    <string name="showLineStart">Show line start/end</string>
+</resources>
